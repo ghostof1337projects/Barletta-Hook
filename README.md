@@ -129,4 +129,4 @@ HMODULE WINAPI HookedLoadLibraryExW(LPCWSTR moduleName, HANDLE file, DWORD flags
 ## Note
 
 ###### This is a Discord cheat exploit, IM NOT RESPONSABLE FOR YOUR ACTIONS! USE IT AT YOUR OWN RISK
-###### This source was originally made from ``afy source``. It's a highly modified source code.
+###### This source was originally made from ``afy source``.
