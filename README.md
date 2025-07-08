@@ -1,4 +1,4 @@
-# 🎙️ Barletta Hook 🎙️
+# Barletta Hook ⭐
 ![Logo](https://i.postimg.cc/pd86x25W/barlihook4.png)
 ###### Thanks to @1glc for the banner
 #### Barletta Hook is a project made to exploit an old Discord file, accesing direct audio acces and many more.
@@ -55,6 +55,8 @@
 - Shows which key is set
 - Killswitch method with pastebin
 - XOR,SkCrypt,rotCrypt encryption methods
+- Hardclipper/SpoofdB detection (90% accuracy)
+
 ## Opus hooking function
 
 ```C++
