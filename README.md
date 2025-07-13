@@ -20,9 +20,7 @@
 * Select __Release__ and not __Debug__
 * Click on __Build__
 * Click __Build Solution__
-* Go to ``\AppData\Local\Discord\app-\modules\discord_voice-1\discord_voice`` and replace the ``discord_voice.node`` file with the one in the project
-* Replace also the openh DLL with ``openh264-2.2.0-win64.dll`` (for stereo support)
-* Run the injector
+* Run the injector ( Modules will be automatically added)
 * Open Discord
 
 ## Features
