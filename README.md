@@ -56,6 +56,7 @@
 - Hardclipper/SpoofdB detection (90% accuracy)
 - EnergySL Strenght
 - Lowering method
+- Command Line Console commands
 
 ## Opus hooking function
 
