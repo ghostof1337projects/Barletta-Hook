@@ -54,6 +54,8 @@
 - Killswitch method with pastebin
 - XOR,SkCrypt,rotCrypt encryption methods
 - Hardclipper/SpoofdB detection (90% accuracy)
+- EnergySL Strenght
+- Lowering method
 
 ## Opus hooking function
 
@@ -105,7 +107,7 @@ HMODULE WINAPI HookedLoadLibraryExW(LPCWSTR moduleName, HANDLE file, DWORD flags
 ```
 
 ## Screenshots
-![image](https://i.postimg.cc/4dBmCjCN/ui.png)
+![image](https://i.postimg.cc/KzrpYQyz/Screenshot-1.png)
 ## How to get the offset
 
 
